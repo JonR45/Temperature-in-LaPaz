@@ -1,0 +1,42 @@
+# admin files
+.DS_Store
+
+# checkpoints
+/.ipynb_checkpoints/**
+/Notebooks/.ipynb_checkpoints/**
+/Models/.ipynb_checkpoints/**
+
+
+# data
+
+
+### folders
+/Presentation/**
+/Resources/**
+/Screenshots/**
+/with_notes/**
+/.git/**
+/.venv/**
+/.vscode/**
+
+
+
+
+# images
+
+
+
+# notebooks
+/Notebooks/data_from_API.ipynb
+/Notebooks/prophet_hyperparameters.ipynb
+/Notebooks/prophet_notes.ipynb
+/Notebooks/4.1.ARIMA.ipynb
+
+
+
+# virtual environment
+.env
+
+
+
+# other
